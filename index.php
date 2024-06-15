@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "your_username";
-$password = "your_password";
-$dbname = "your_database";
+$username = "creedlarab2cadmin";
+$password = "Wqn@9g8fATXJ4-Zvs4W!2Nmy";
+$dbname = "creedliving.database.windows.net";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
